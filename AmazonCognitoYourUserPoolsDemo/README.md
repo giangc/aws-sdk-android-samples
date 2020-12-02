@@ -14,10 +14,10 @@ Running AmazonCognitoYourUserPoolsDemo
    - In "_Create a user pool_" page, give your pool a name and select "_Review default_" - this will create a user pool with default settings.
    - Click on "_Create pool_" to create the new user pool.
    - After creating a new pool, navigate to "_App Integration_" page (select "_Apps Integration_" from the navigation options on the left hand side) and click "_Add app client..._" from the "_UI Customization_" section.
-   - Click "_Add an app client_" and give a name to the app, e.g. "My Android App".
-   - Click "_Create app client_" to generate the app client id.
-   - Get the App client id and App client secret, if the secret was generated. To see the App client secret click on "_Show Details_".
-   - Get the "_Pool Id_" from the "_Pool details_" page (select "_General settings_" from the navigation options on the left hand side).
+   - [x] Click "_Add an app client_" and give a name to the app, e.g. "My Android App".
+   - [x] Click "_Create app client_" to generate the app client id.
+   - [x] Get the App client id and App client secret, if the secret was generated. To see the App client secret click on "_Show Details_".
+   - [x] Get the "_Pool Id_" from the "_Pool details_" page (select "_General settings_" from the navigation options on the left hand side).
 
 2. Download and import the AmazonCognitoYourUserPoolsDemo project into your Android Studio
    - From the Welcome screen, click on "_Import project_".
